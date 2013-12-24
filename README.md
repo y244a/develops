@@ -1,4 +1,4 @@
 develops
 ========
 
-develop deirectory
+C++ study
